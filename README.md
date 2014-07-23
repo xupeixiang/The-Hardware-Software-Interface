@@ -1,4 +1,4 @@
 The-Hardware-Software-Interface
 ===============================
 
-Programming Assignments Solutions for https://class.coursera.org/hwswinterface-002
+Programming Assignments solutions for https://class.coursera.org/hwswinterface-002
